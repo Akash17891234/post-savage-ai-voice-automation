@@ -1,7 +1,6 @@
 # PostSavage.ai - AI Voice Automation Platform
 
-**Developer:** Akash Krishna  
-**Project Type:** Internship Final Project  
+**Developer:** Akash Krishna 
 **Live Demo:** [https://postsavageagenticai.vercel.app](https://postsavageagenticai.vercel.app)
 
 ---
